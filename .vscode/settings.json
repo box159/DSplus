@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "Problem 1.C": "cpp"
+        // "Problem 1.C": "cpp" // Removed this line, assuming files will be renamed to .cpp
+        // Add other associations if needed, e.g. "*.c": "cpp" if you keep .c extensions but write C++
     }
 }
